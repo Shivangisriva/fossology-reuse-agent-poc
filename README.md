@@ -45,3 +45,6 @@ This POC validates the core idea for FOSSology contribution:
 - Highlight changed files and the degree of change
 - Flag license changes for review
 - Produce an auditable output suitable for maintainers
+
+  <img width="1386" height="703" alt="image" src="https://github.com/user-attachments/assets/90633ef6-d635-4b72-81ac-39f449b8bb7a" />
+
