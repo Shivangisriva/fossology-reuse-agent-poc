@@ -48,3 +48,6 @@ This POC validates the core idea for FOSSology contribution:
 
   <img width="1386" height="703" alt="image" src="https://github.com/user-attachments/assets/90633ef6-d635-4b72-81ac-39f449b8bb7a" />
 
+## Note
+
+This proof of concept was developed with assistance from AI tools for ideation and implementation support.
